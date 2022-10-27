@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Vtitbid.ISP20.Zlokazov.Zodiac\Vtitbid.ISP20.Zlokazov.Zodiac\bin\Debug\net6.0\Vtitbid.ISP20.Zlokazov.Zodiac.exe
+C:\Users\User\source\repos\Vtitbid.ISP20.Zlokazov.Zodiac\Vtitbid.ISP20.Zlokazov.Zodiac\bin\Debug\net6.0\Vtitbid.ISP20.Zlokazov.Zodiac.deps.json
+C:\Users\User\source\repos\Vtitbid.ISP20.Zlokazov.Zodiac\Vtitbid.ISP20.Zlokazov.Zodiac\bin\Debug\net6.0\Vtitbid.ISP20.Zlokazov.Zodiac.runtimeconfig.json
+C:\Users\User\source\repos\Vtitbid.ISP20.Zlokazov.Zodiac\Vtitbid.ISP20.Zlokazov.Zodiac\bin\Debug\net6.0\Vtitbid.ISP20.Zlokazov.Zodiac.dll
+C:\Users\User\source\repos\Vtitbid.ISP20.Zlokazov.Zodiac\Vtitbid.ISP20.Zlokazov.Zodiac\bin\Debug\net6.0\Vtitbid.ISP20.Zlokazov.Zodiac.pdb
+C:\Users\User\source\repos\Vtitbid.ISP20.Zlokazov.Zodiac\Vtitbid.ISP20.Zlokazov.Zodiac\obj\Debug\net6.0\Vtitbid.ISP20.Zlokazov.Zodiac.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Vtitbid.ISP20.Zlokazov.Zodiac\Vtitbid.ISP20.Zlokazov.Zodiac\obj\Debug\net6.0\Vtitbid.ISP20.Zlokazov.Zodiac.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Vtitbid.ISP20.Zlokazov.Zodiac\Vtitbid.ISP20.Zlokazov.Zodiac\obj\Debug\net6.0\Vtitbid.ISP20.Zlokazov.Zodiac.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Vtitbid.ISP20.Zlokazov.Zodiac\Vtitbid.ISP20.Zlokazov.Zodiac\obj\Debug\net6.0\Vtitbid.ISP20.Zlokazov.Zodiac.AssemblyInfo.cs
+C:\Users\User\source\repos\Vtitbid.ISP20.Zlokazov.Zodiac\Vtitbid.ISP20.Zlokazov.Zodiac\obj\Debug\net6.0\Vtitbid.ISP20.Zlokazov.Zodiac.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Vtitbid.ISP20.Zlokazov.Zodiac\Vtitbid.ISP20.Zlokazov.Zodiac\obj\Debug\net6.0\Vtitbid.ISP20.Zlokazov.Zodiac.dll
+C:\Users\User\source\repos\Vtitbid.ISP20.Zlokazov.Zodiac\Vtitbid.ISP20.Zlokazov.Zodiac\obj\Debug\net6.0\refint\Vtitbid.ISP20.Zlokazov.Zodiac.dll
+C:\Users\User\source\repos\Vtitbid.ISP20.Zlokazov.Zodiac\Vtitbid.ISP20.Zlokazov.Zodiac\obj\Debug\net6.0\Vtitbid.ISP20.Zlokazov.Zodiac.pdb
+C:\Users\User\source\repos\Vtitbid.ISP20.Zlokazov.Zodiac\Vtitbid.ISP20.Zlokazov.Zodiac\obj\Debug\net6.0\Vtitbid.ISP20.Zlokazov.Zodiac.genruntimeconfig.cache
+C:\Users\User\source\repos\Vtitbid.ISP20.Zlokazov.Zodiac\Vtitbid.ISP20.Zlokazov.Zodiac\obj\Debug\net6.0\ref\Vtitbid.ISP20.Zlokazov.Zodiac.dll
